@@ -1,8 +1,10 @@
+# Global Maintainers
+
+/**           @keycloak-rel-testing/maintainers
+
+
 # UI Team
 
 /js/**        @keycloak-rel-testing/ui-maintainers
 
 
-# Maintainers
-
-/**           @keycloak-rel-testing/maintainers
